@@ -1,0 +1,7 @@
+[[Short Topics]]
+[[1. Introduction to Python]]
+[[2. Data types]]
+[[3. Operators]]
+[[4. Conditionals]]
+[[5. Loops]]
+[[6. Strings]]
